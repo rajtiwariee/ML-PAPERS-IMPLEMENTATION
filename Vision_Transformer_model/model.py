@@ -1,3 +1,7 @@
+#---------------------------Model.py----------------------------
+#Implementation of Vision Transformer (ViT) model from scratch
+#Paper here : https://arxiv.org/pdf/2010.11929
+
 import torch
 from torch import nn
 from ImageEmbedding import PatchEmbedding
