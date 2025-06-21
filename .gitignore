@@ -1,0 +1,15 @@
+__pycache__
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info
+*.log
+*.sqlite3
+*.db
+*.swp
+*.swo
+*.bak
+*.tmp
